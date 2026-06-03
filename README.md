@@ -1,1 +1,1 @@
-# BlockChain-_based-_Electronic_Voting-_System
+# BlockChain based Electronic Voting System
